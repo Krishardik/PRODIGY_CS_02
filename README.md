@@ -37,7 +37,7 @@ The script can be executed by running the `WiZzPix.py` file. It provides a simpl
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Krishardik/PRODIGY_CS_01
+   git clone https://github.com/Krishardik/PRODIGY_CS_02
    ```
 
 2. Install the required dependencies:
