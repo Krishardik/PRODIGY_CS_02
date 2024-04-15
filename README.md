@@ -1,5 +1,5 @@
 # PRODIGY_CS_02
-
+---
 # WiZzPix
 
 WiZzPix is a basic image encryption and decryption tool developed as part of my internship project to explore Python programming for creating cybersecurity-related tools.
