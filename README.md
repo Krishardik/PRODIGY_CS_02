@@ -37,7 +37,7 @@ The script can be executed by running the `WiZzPix.py` file. It provides a simpl
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Krishardik/PRODIGY_CS_02
+   git clone https://github.com/Krishardik/WiZzPix
    ```
 
 2. Install the required dependencies:
@@ -47,7 +47,7 @@ The script can be executed by running the `WiZzPix.py` file. It provides a simpl
 
 3. Navigate to the project directory:
    ```
-   cd PRODIGY_CS_02
+   cd WiZzPix
    ```
 
 4. Run the script:
